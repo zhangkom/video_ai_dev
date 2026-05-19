@@ -1,0 +1,9 @@
+apps/*/build/
+reports/
+data/samples/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+
